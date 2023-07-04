@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.kym-cdn.com/entries/icons/mobile/000/042/787/da410ca06426dced83f38f21434d9cb7.jpg);
+  --dplus-backdrop: url(https://media.tenor.com/jYfP3Nj30agAAAAC/kaboom-explosion.gif);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 42;
